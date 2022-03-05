@@ -24,6 +24,6 @@ the first argument is the first line of the grid,
 the last argument is the last line of the grid
 empty cells are replace by '.'
 
-![alt text]https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSudoku_solving_algorithms&psig=AOvVaw04MrXNEhkYYDzf-9r5c-xf&ust=1646571562122000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCEj5uDr_YCFQAAAAAdAAAAABAD)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSudoku_solving_algorithms&psig=AOvVaw04MrXNEhkYYDzf-9r5c-xf&ust=1646571562122000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCEj5uDr_YCFQAAAAAdAAAAABAD)
 
 Of course you can replace the above arguments by any other sudoku grid, it will get solved as long as it's valid.
