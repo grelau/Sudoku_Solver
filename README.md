@@ -24,7 +24,8 @@ run
 * the last argument is the last line of the grid
 * **'.'** stands for empty cells.
 
-_Here is the corresponding grid:_
+_the corresponding grid:_
+
 <img src="https://user-images.githubusercontent.com/42698196/156885054-b0cafd4d-8f63-4acb-aeb7-2cfecafc312c.png" width="250" height="250" class="center">
 
 Of course you can replace the above arguments by any other sudoku grid, it will get solved as long as it's valid!
