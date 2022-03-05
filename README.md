@@ -24,6 +24,6 @@ the first argument is the first line of the grid,
 the last argument is the last line of the grid
 empty cells are replace by '.'
 Here is the corresponding grid:
-![sudoku_grid](https://user-images.githubusercontent.com/42698196/156885054-b0cafd4d-8f63-4acb-aeb7-2cfecafc312c.png)
+![sudoku_grid](https://user-images.githubusercontent.com/42698196/156885054-b0cafd4d-8f63-4acb-aeb7-2cfecafc312c.png =250x250)
 
 Of course you can replace the above arguments by any other sudoku grid, it will get solved as long as it's valid.
