@@ -1,5 +1,5 @@
 # Sudoku_Solver
-C program to solve any sudoku grid using backtracking
+Simple C script to solve any sudoku grid using backtracking
 
 # How to test it
 Open a command prompt to git clone this repo
